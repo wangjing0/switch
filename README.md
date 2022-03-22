@@ -6,8 +6,12 @@
 Interested in building one? 
 Here is a mini tutorial.
 
-* Design backbone of experiment. *.psyexp in PsychoPy* a python based cross-platform package for running behavioral sciences
+
+* PsychoPy is a python based cross-platform package for running behavioral sciences
+* Design backbone of experiment. *.psyexp in PsychoPy* 
+ 
   Flow> routines>components
+
   Details can be found in [Psychopy.org](https://psychopy.org/index.html)
 * Test local python version of the experiment in the experiment runner. A new *_lastrun.py* is generated automatically at each run. Data and log will be saved locally in a data folder.
 * Set a git project and sync with the repository on pavlovia.org
