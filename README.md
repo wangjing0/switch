@@ -18,3 +18,7 @@ Interested in building one? Here is a mini tutorial.
 * Push it to your git repository, then run JS in Piloting or Running mode on pavlovia.org
 * Data will be saved on the repository in the data folder. Pull back online data from the repository.
 * Set the exp as Running mode in [pavlovia.org](https://pavlovia.org). Publish the task using generated [alias link](https://tinyurl.com/) for safety.
+
+<p align="center">
+  <img src="screenshot.png" height="500" >
+</p>
