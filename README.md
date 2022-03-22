@@ -1,8 +1,7 @@
 **An online gaming and pychophysics experiment that can collect various behavioral data 
 (clicking, mouse tracking, eye gaze) upon consent of the experimentees.** [Try it yourself here!](https://run.pavlovia.org/jingwang.physics/switchbeta/html/?__pilotToken=3c59dc048e8850243be8079a5c74d079&__oauthToken=a651fabc8d3fd042327636d17a96e67d188f0e5caccb34034de68d20aeb500b7)
 
-Interested in building one? 
-Here is a mini tutorial.
+Interested in building one? Here is a mini tutorial.
 
 
 * PsychoPy is a python based cross-platform package for running behavioral sciences
@@ -18,4 +17,4 @@ Here is a mini tutorial.
 * Sync after every change made locally *.psyexp*. Two new *.js* will be automatically compiled, test run *.js* both locally and online
 * Push it to your git repository, then run JS in Piloting or Running mode on pavlovia.org
 * Data will be saved on the repository in the data folder. Pull back online data from the repository.
-* Set the exp as Running mode in pavlovia.org. Publish the task using generated [alias link](https://tinyurl.com/) for safety.
+* Set the exp as Running mode in [pavlovia.org](https://pavlovia.org). Publish the task using generated [alias link](https://tinyurl.com/) for safety.
