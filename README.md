@@ -20,5 +20,5 @@ Interested in building one? Here is a mini tutorial.
 * Set the exp as Running mode in [pavlovia.org](https://pavlovia.org). Publish the task using generated [alias link](https://tinyurl.com/) for safety.
 
 <p align="center">
-  <img src="screenshot.png" height="500" >
+  <img src="screenshot.jpg" height="500" >
 </p>
