@@ -1,8 +1,7 @@
 **An online gaming and pychophysics experiment that can collect behavioral data 
 (clicking, mouse tracking, eye gaze) upon consent of the experimentees.** [Try it here!](https://run.pavlovia.org/jingwang.physics/switchbeta/html/?__pilotToken=3c59dc048e8850243be8079a5c74d079&__oauthToken=a651fabc8d3fd042327636d17a96e67d188f0e5caccb34034de68d20aeb500b7)
 
-Interested in building one? Here is a mini tutorial.
-
+Interested in building one? Here you go.
 
 * PsychoPy is a python based cross-platform package for running behavioral sciences
 * Design backbone of experiment. *.psyexp in PsychoPy* 
